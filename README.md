@@ -64,7 +64,7 @@ void main( )
 }
 
 ```
-**Output :**
+## Output :
 ![Screenshot 2025-04-23 111613](https://github.com/user-attachments/assets/960af1e7-700e-4ddf-ac3a-730abeb98465)
 
 **Result :**
